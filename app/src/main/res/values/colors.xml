@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorPrimaryDark">@color/skyeBlue</color>
+    <!--<color name="colorAccent">#D81B60</color>-->
+    <color name="colorAccent">@color/lightGreen</color>
+
+    <color name="lightGreen">#00D998</color>
+    <color name="skyeBlue">#59A5FF</color>
+    <color name="lightBlue">#0075FF</color>
+    <color name="darkBlue">#0064DA</color>
+    <color name="lightAsh">#FAFAFA</color>
+
+    <!--<color name="white">@android:color/white</color>-->
+
+</resources>

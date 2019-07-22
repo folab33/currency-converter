@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_key">d2d071d845d66caf3e8b481e32213562</string>
+    <string name="inbox_text">Get rate alerts straight to your email inbox</string>
+    <string-array name="currency_symbol_array">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>PLN</item>
+        <item>MXN</item>
+    </string-array>
+    <integer-array name="currency_flag_array">
+        <item>@drawable/ic_eur</item>
+        <item>@drawable/ic_usd</item>
+        <item>@drawable/ic_aud</item>
+        <item>@drawable/ic_cad</item>
+        <item>@drawable/ic_pln</item>
+        <item>@drawable/ic_mxn</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <stroke
+                    android:width="2dp" android:color="@color/lightAsh"/>
+            <padding
+                    android:right="8dp"
+                    android:top="2dp"/>
+            <corners android:radius="10dp"/>
+            <solid android:color="#00000000"/>
+        </shape>
+    </item>
+    <item
+            android:drawable="@drawable/ic_expand_more_black_24dp"
+            android:gravity="center_vertical|right"
+    />
+    <!--<item>-->
+    <!--<bitmap android:src="@android:drawable/arrow_down_float"-->
+    <!--android:gravity="right"/>-->
+    <!--</item>-->
+</layer-list>
